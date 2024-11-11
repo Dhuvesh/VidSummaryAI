@@ -1,0 +1,18 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore large uploads or model files
+uploads/
+*.bin
+*.pt
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

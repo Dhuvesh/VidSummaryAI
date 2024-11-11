@@ -1,0 +1,8 @@
+Meeting Summary (Pointwise):
+===========================
+-  API is usually developed by backend. We just get it. We start working on it. So what happens is when we start. working on front end, we don't usually have an API because API is handled by. backend team. What we need to do is we. need to create, pay API. We need to have some sort of links. We must have some kind of response. So we can test our front end project. That's where this whole JSON server coming to picture.
+- Fake API is not restricted to this section or next section. We are going to utilize it in lot of projects as well as in a lot of concept. We can create any type of API test out the result buildout designs and and user code Reacconcept.com.
+- We are now going to play with APIs. But before that, let us create our new project. You will get all the information about the code source as well as step by step tutorial. information are here.
+- Npx is a free, open-source web app that lets users create and test apps. Npx can be used to create, test and share apps. It can also be used as a demonstration tool.
+- We have our basic structure. I just need to do a quick cleanup. Let me remove my set of test. Then I need to remove this. Also remove our SVG then I have the test file, okay.
+- NPM starts with an empty page since we don't have any content inside our app. So what I am going to do is have an H1 page.
